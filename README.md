@@ -1,2 +1,8 @@
 # yunfa_table_game
 云罚桌游
+
+## 参考
+1. 桌面：[游戏王桌面](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%B8%B8%E6%88%8F%E7%8E%8B&step_word=&hs=0&pn=271&spn=0&di=239800&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=742243426%2C819627072&os=257041734%2C1839634951&simid=4258459108%2C777661389&adpicid=0&lpn=0&ln=1528&fr=&fmq=1576004511958_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fweb.wanyxbox.com%2Fupload%2Fscreenshot%2F08%2F14408_1.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fojk_z%26e3Bowgyxk5x_z%26e3Bv54AzdH3F1jpwtsAzdH3F899ab_z%26e3Bip4s&gsm=&rpstart=0&rpnum=0&islist=&querylist=&force=undefined)
+1. 牌面：[游戏王牌面](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%B8%B8%E6%88%8F%E7%8E%8B&step_word=&hs=0&pn=238&spn=0&di=131340&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=1782454857%2C3452686404&os=191833661%2C3704155395&simid=4088476732%2C693287955&adpicid=0&lpn=0&ln=1528&fr=&fmq=1576004511958_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fg-search1.alicdn.com%2Fimg%2Fbao%2Fuploaded%2Fi2%2F128871598%2FTB2VB_1cSiK.eBjSZFsXXbxZpXa_!!128871598.jpg_300x300.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B8mbb_z%26e3Bv54AzdH3Fi75AzdH3FCABFB8FbBFAb_z%26e3Bip4s&gsm=&rpstart=0&rpnum=0&islist=&querylist=&force=undefined)
+1. 人物：[云罚大百科](https://github.com/shiyuwudi/yunfa_wiki/wiki)
+1. 流程/设计：todo
