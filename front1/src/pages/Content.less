@@ -1,0 +1,28 @@
+@import "index";
+
+.content_container {
+  background: beige;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  .board {
+    display: flex;
+    border-bottom: 1px solid var(--game-border-color);
+    flex: 1;
+    .status {
+      border-right: 1px solid var(--game-border-color);
+    }
+    .phase {
+      border-right: 1px solid var(--game-border-color);
+      width: 20px;
+    }
+    .deck {
+      width: 100%;
+    }
+  }
+  .detail {
+    height: 100px;
+    padding: 10px;
+    text-align: center;
+  }
+}
