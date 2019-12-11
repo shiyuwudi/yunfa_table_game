@@ -1,0 +1,27 @@
+.content-container {
+    background: beige;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.content-container .board {
+    display: flex;
+    border-bottom: 1px solid var(--game-border-color);
+    flex: 1;
+}
+.content-container .board .status {
+    border-right: 1px solid var(--game-border-color);
+}
+.content-container .board .phase {
+    border-right: 1px solid var(--game-border-color);
+    width: 20px;
+}
+.content-container .board .deck {
+    width: 100%;
+}
+.content-container .detail {
+    height: 100px;
+    padding: 10px;
+    text-align: center;
+}
+

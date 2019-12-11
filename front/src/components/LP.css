@@ -1,0 +1,30 @@
+.LP-container {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    white-space: nowrap;
+}
+.LP-container .text-display {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.LP-container .text-display .label {
+    margin-right: 10px;
+}
+.LP-container .text-display .count {}
+.LP-container .bar-chart {
+    display: flex;
+    align-items: center;
+}
+.LP-container .bar-chart .icon-con {
+    margin-right: 10px;
+    display: flex;
+}
+.LP-container .bar-chart .icon-con .icon {
+    color: crimson;
+}
+.LP-container .bar-chart .bar {
+
+}

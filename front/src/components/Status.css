@@ -1,0 +1,13 @@
+.status-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.status-container .life-point {
+    height: auto;
+}
+.status-container .status-body {
+    flex: 1;
+    border-bottom: 1px solid var(--game-border-color);
+    border-top: 1px solid var(--game-border-color);
+}

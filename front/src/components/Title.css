@@ -1,0 +1,10 @@
+.title-container {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    border-top: 1px solid var(--game-border-color);
+    border-bottom: 1px solid var(--game-border-color);
+    color: crimson;
+    font-family: "Kaiti SC", serif;
+}
